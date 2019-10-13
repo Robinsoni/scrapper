@@ -1,0 +1,23 @@
+.container{
+	width: 81%;
+	height: 100px;
+	background: #0099ff3b;
+}
+
+.im{
+	margin: auto;
+	width: 11%;
+	float:left;
+}
+.content{
+	width:50px
+	float:left;
+}
+
+img{
+	width: 65px;
+	object-fit: cover;
+}
+.content span{
+	padding: 5px;
+}
